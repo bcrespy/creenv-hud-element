@@ -1,6 +1,6 @@
 {
   "name": "@creenv/hud-element",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "an abstract class describing how should an hud element should be implemented",
   "keywords": [
     "stats",
